@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Filipe Costa PitchMe
+description: CV and Professional experiences
 theme: uncover
 paginate: true
 _paginate: false
@@ -64,7 +64,7 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-### <!--fit--> :ok_hand:
+## <!--fit--> :ok_hand:
 
 ---
 
