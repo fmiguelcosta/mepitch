@@ -21,6 +21,12 @@ https://cap-fmcosta.github.io/mepitch/
 
 ---
 
+# About Me
+
+My name is Filipe Costa and I'm currently a Senior Manager of Outsystems Plaform at Capgemini. I've always been passionate about all things related with Computer Science. I belive in disrruption, and feel that we need to reinvent ourselfs in order to keep up with the ever changing world.
+
+---
+
 ![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
 
 ---
@@ -68,8 +74,9 @@ https://cap-fmcosta.github.io/mepitch/
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+![bg 40% opacity blur](https://avatars.githubusercontent.com/u/108762875?s=400&v=4)
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
 
-https://github.com/yhatt/marp-cli-example
+### Created by Filipe Costa ([@cap-fmcosta](https://github.com/cap-fmcosta))
+
+https://github.com/cap-fmcosta/mepitch
