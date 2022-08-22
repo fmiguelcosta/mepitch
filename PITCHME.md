@@ -9,11 +9,11 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Filipe Miguel Costa
 
-Hosting Marp slide deck on the web
+Leads teams and technology in the digital transformation world
 
-https://github.com/yhatt/marp-cli-example
+https://cap-fmcosta.github.io/mepitch/
 
 <style scoped>a { color: #eee; }</style>
 
