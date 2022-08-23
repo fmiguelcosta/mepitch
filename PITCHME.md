@@ -1,18 +1,20 @@
 ---
 marp: true
+#size: 16:9
 title: Filipe Costa PitchMe
 description: CV and Professional experiences
-theme: uncover
+#theme: uncover
 paginate: true
 _paginate: false
+author: fmiguelcosta
+#footer: Filipe [filipemiguelcosta@outlook.com] &emsp; | &emsp; Almada, August 2022
+#headingDivider: 3
 ---
 
 ![bg](./assets/gradient.jpg)
 
 # <!--fit--> Filipe Miguel Costa
-
-Leads teams and technology in the digital transformation world
-
+## Leads teams and technology in the digital transformation world
 https://cap-fmcosta.github.io/mepitch/
 
 <style scoped>a { color: #eee; }</style>
@@ -21,56 +23,43 @@ https://cap-fmcosta.github.io/mepitch/
 
 ---
 
-# About Me
+![bg right](https://picsum.photos/720?image=3)
+<!--![bg right 20%](#)-->
+# <!--fit-->About Me
 
 My name is Filipe Costa and I'm currently a Senior Manager of Outsystems Plaform at Capgemini. I've always been passionate about all things related with Computer Science. I belive in disrruption, and feel that we need to reinvent ourselfs in order to keep up with the ever changing world.
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![bg left](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Timex_Computer_2048_%28Thomas_Cont%C3%A9%29_%28white_bg_and_retouch%29.jpg/1920px-Timex_Computer_2048_%28Thomas_Cont%C3%A9%29_%28white_bg_and_retouch%29.jpg)
+
+# <!--fit--> 1988
+## My first :computer: a Timex Sinclair 2048 (48Kb of pure delight!)
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
-
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+# <!--fit--> 1994
+## My first payslip :man_office_worker::briefcase::dollar:
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+# <!--fit--> 1996
+## Land my first Internet related job
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+# <!--fit--> 1998
+## Did my part solving the Y2K bug!!
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+![bg](:car:)
+# <!--fit--> 1998 - 2018
+## <!--fit-->🏃😩⌚😓😪📳😣🏃‍♀️🥵📩💻📧🗃
 
 ---
 
-## <!--fit--> :ok_hand:
+# <!--fit-->:ok_hand:
 
 ---
 
